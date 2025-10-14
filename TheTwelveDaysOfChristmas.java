@@ -34,7 +34,7 @@ public class TheTwelveDaysOfChristmas {
       case 6:
         System.out.println("Six geese a-laying,");
       case 5:
-        System.out.println("FIVE GOLDEN RINGS!,");
+        System.out.println("Five golden rings,");
       case 4:
         System.out.println("Four calling birds,");
       case 3:
